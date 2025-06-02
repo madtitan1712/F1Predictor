@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+LEC,Ferrari,1.0,1.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:46.664000,0 days 00:01:48.480743589,1
+HAM,Mercedes,3.0,2.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:46.580000,0 days 00:01:48.457000,1
+BOT,Mercedes,4.0,3.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:46.465000,0 days 00:01:48.776846153,1
+VET,Ferrari,2.0,4.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:46.409000,0 days 00:01:48.799394736,2
+ALB,Red Bull Racing,17.0,5.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:47.507000,0 days 00:01:50.373948717,1
+PER,Racing Point,7.0,6.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:48.781000,0 days 00:01:50.455820512,1
+KVY,Toro Rosso,19.0,7.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:48.143000,0 days 00:01:50.636743589,1
+HUL,Renault,12.0,8.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:48.349000,0 days 00:01:50.555540540,2
+GAS,Toro Rosso,13.0,9.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:49.700000,0 days 00:01:51.149974358,1
+STR,Racing Point,16.0,10.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:48.357000,0 days 00:01:50.764526315,2
+NOR,McLaren,11.0,11.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:48.321000,0 days 00:01:50.055973684,1
+MAG,Haas F1 Team,8.0,12.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:48.677000,0 days 00:01:51.386131578,1
+GRO,Haas F1 Team,9.0,13.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:49.274000,0 days 00:01:51.546315789,1
+RIC,Renault,10.0,14.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:50.451000,0 days 00:01:51.817631578,1
+RUS,Williams,14.0,15.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:48.860000,0 days 00:01:51.783810810,1
+RAI,Alfa Romeo Racing,6.0,16.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:48.753000,0 days 00:01:51.919837837,3
+KUB,Williams,0.0,17.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:49.220000,0 days 00:01:52.303421052,1
+GIO,Alfa Romeo Racing,18.0,18.0,Belgian Grand Prix,Belgium,2019,0 days 00:01:47.560000,0 days 00:01:50.711861111,1
+SAI,McLaren,15.0,19.0,Belgian Grand Prix,Belgium,2019,0 days 00:03:14.682000,0 days 00:03:14.682000,0
+VER,Red Bull Racing,5.0,20.0,Belgian Grand Prix,Belgium,2019,,,0

@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,3.0,1.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:19.461000,0 days 00:01:20.872746268,1
+VET,Ferrari,2.0,2.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:19.381000,0 days 00:01:20.944940298,1
+BOT,Mercedes,6.0,3.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:19.494000,0 days 00:01:20.802272727,1
+LEC,Ferrari,1.0,4.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:19.232000,0 days 00:01:20.706060606,2
+ALB,Red Bull Racing,5.0,5.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:19.325000,0 days 00:01:20.816276923,2
+VER,Red Bull Racing,4.0,6.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:20.406000,0 days 00:01:21.428835820,1
+PER,Racing Point,11.0,7.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:20.485000,0 days 00:01:21.898661764,1
+RIC,Renault,13.0,8.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:20.146000,0 days 00:01:21.908750,1
+GAS,Toro Rosso,10.0,9.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:19.530000,0 days 00:01:21.877919354,2
+HUL,Renault,12.0,10.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:20.791000,0 days 00:01:22.254772727,1
+KVY,Toro Rosso,9.0,11.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:19.905000,0 days 00:01:21.944703125,2
+STR,Racing Point,16.0,12.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:20.922000,0 days 00:01:22.468835820,1
+SAI,McLaren,7.0,13.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:20.311000,0 days 00:01:22.000548387,2
+GIO,Alfa Romeo Racing,15.0,14.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:21.014000,0 days 00:01:22.458656716,1
+MAG,Haas F1 Team,17.0,15.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:21.682000,0 days 00:01:23.082261538,1
+RUS,Williams,19.0,16.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:21.286000,0 days 00:01:23.758692307,1
+GRO,Haas F1 Team,18.0,17.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:21.581000,0 days 00:01:23.748093750,1
+KUB,Williams,20.0,18.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:20.696000,0 days 00:01:23.549131147,2
+RAI,Alfa Romeo Racing,14.0,19.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:20.082000,0 days 00:01:22.655745098,2
+NOR,McLaren,8.0,20.0,Mexican Grand Prix,Mexico,2019,0 days 00:01:21.643000,0 days 00:01:23.308795454,1

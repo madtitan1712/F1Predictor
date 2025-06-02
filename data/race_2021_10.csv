@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,2.0,1.0,British Grand Prix,Great Britain,2021,0 days 00:01:29.699000,0 days 00:01:31.696382978,2
+LEC,Ferrari,4.0,2.0,British Grand Prix,Great Britain,2021,0 days 00:01:30.569000,0 days 00:01:32.052617021,2
+BOT,Mercedes,3.0,3.0,British Grand Prix,Great Britain,2021,0 days 00:01:30.524000,0 days 00:01:32.125595744,2
+NOR,McLaren,5.0,4.0,British Grand Prix,Great Britain,2021,0 days 00:01:31.418000,0 days 00:01:32.456553191,2
+RIC,McLaren,6.0,5.0,British Grand Prix,Great Britain,2021,0 days 00:01:31.284000,0 days 00:01:32.754914893,2
+SAI,Ferrari,10.0,6.0,British Grand Prix,Great Britain,2021,0 days 00:01:31.223000,0 days 00:01:32.585255319,2
+ALO,Alpine,7.0,7.0,British Grand Prix,Great Britain,2021,0 days 00:01:31.698000,0 days 00:01:33.360021276,2
+STR,Aston Martin,14.0,8.0,British Grand Prix,Great Britain,2021,0 days 00:01:31.992000,0 days 00:01:33.400021276,2
+OCO,Alpine,9.0,9.0,British Grand Prix,Great Britain,2021,0 days 00:01:32.210000,0 days 00:01:33.397574468,2
+TSU,AlphaTauri,16.0,10.0,British Grand Prix,Great Britain,2021,0 days 00:01:30.826000,0 days 00:01:33.386565217,2
+GAS,AlphaTauri,11.0,11.0,British Grand Prix,Great Britain,2021,0 days 00:01:30.266000,0 days 00:01:33.220760869,3
+RUS,Williams,12.0,12.0,British Grand Prix,Great Britain,2021,0 days 00:01:32.049000,0 days 00:01:33.788869565,2
+GIO,Alfa Romeo Racing,15.0,13.0,British Grand Prix,Great Britain,2021,0 days 00:01:32.346000,0 days 00:01:33.872173913,2
+LAT,Williams,17.0,14.0,British Grand Prix,Great Britain,2021,0 days 00:01:32.477000,0 days 00:01:33.851391304,2
+RAI,Alfa Romeo Racing,13.0,15.0,British Grand Prix,Great Britain,2021,0 days 00:01:31.895000,0 days 00:01:33.768622222,2
+PER,Red Bull Racing,0.0,16.0,British Grand Prix,Great Britain,2021,0 days 00:01:28.617000,0 days 00:01:32.812051282,4
+MAZ,Haas F1 Team,19.0,17.0,British Grand Prix,Great Britain,2021,0 days 00:01:32.909000,0 days 00:01:35.091456521,2
+MSC,Haas F1 Team,18.0,18.0,British Grand Prix,Great Britain,2021,0 days 00:01:32.862000,0 days 00:01:35.114652173,2
+VET,Aston Martin,8.0,19.0,British Grand Prix,Great Britain,2021,0 days 00:01:33.059000,0 days 00:01:33.912911764,2
+VER,Red Bull Racing,1.0,20.0,British Grand Prix,Great Britain,2021,,,0

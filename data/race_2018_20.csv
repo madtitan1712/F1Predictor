@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,1.0,1.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:11.795000,0 days 00:01:13.304779411,1
+VER,Red Bull Racing,5.0,2.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:11.578000,0 days 00:01:13.133582089,1
+RAI,Ferrari,4.0,3.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:11.769000,0 days 00:01:13.330176470,1
+RIC,Red Bull Racing,11.0,4.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:11.343000,0 days 00:01:13.282573529,1
+BOT,Mercedes,3.0,5.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:10.540000,0 days 00:01:13.258687500,2
+VET,Ferrari,2.0,6.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:10.831000,0 days 00:01:13.342861538,2
+LEC,Sauber,7.0,7.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:12.082000,0 days 00:01:13.854250,1
+GRO,Haas F1 Team,8.0,8.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:12.362000,0 days 00:01:13.964823529,1
+MAG,Haas F1 Team,10.0,9.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:12.206000,0 days 00:01:13.964970588,1
+PER,Racing Point,12.0,10.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:12.472000,0 days 00:01:14.371238805,1
+HAR,Toro Rosso,16.0,11.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:12.949000,0 days 00:01:15.107761194,1
+SAI,Renault,15.0,12.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:12.169000,0 days 00:01:14.812738461,2
+GAS,Toro Rosso,9.0,13.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:13.822000,0 days 00:01:15.193179104,1
+VAN,McLaren,20.0,14.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:12.968000,0 days 00:01:15.119984848,1
+OCO,Racing Point,18.0,15.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:12.352000,0 days 00:01:14.423047619,2
+SIR,Williams,14.0,16.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:14.262000,0 days 00:01:15.550787878,1
+ALO,McLaren,17.0,17.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:12.643000,0 days 00:01:15.083609375,2
+STR,Williams,19.0,18.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:11.751000,0 days 00:01:15.256051724,2
+HUL,Renault,13.0,19.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:14.029000,0 days 00:01:15.393310344,0
+ERI,Sauber,6.0,20.0,Brazilian Grand Prix,Brazil,2018,0 days 00:01:15.281000,0 days 00:01:16.489312500,1

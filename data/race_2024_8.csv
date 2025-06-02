@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+LEC,Ferrari,1.0,1.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:15.162000,0 days 00:01:18.049220588,1
+PIA,McLaren,2.0,2.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:16.281000,0 days 00:01:18.336287671,1
+SAI,Ferrari,3.0,3.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:14.726000,0 days 00:01:17.946661290,1
+NOR,McLaren,4.0,4.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:15.742000,0 days 00:01:18.284444444,1
+RUS,Mercedes,5.0,5.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:15.228000,0 days 00:01:17.995538461,1
+VER,Red Bull Racing,6.0,6.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:14.569000,0 days 00:01:17.393625,2
+HAM,Mercedes,7.0,7.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:14.165000,0 days 00:01:17.018860,2
+TSU,RB,8.0,8.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:14.720000,0 days 00:01:18.203172413,1
+ALB,Williams,9.0,9.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:17.060000,0 days 00:01:19.824594202,1
+GAS,Alpine,10.0,10.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:15.625000,0 days 00:01:19.401176470,1
+ALO,Aston Martin,14.0,11.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:17.939000,0 days 00:01:20.310114285,1
+RIC,RB,12.0,12.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:17.172000,0 days 00:01:20.175865671,1
+BOT,Kick Sauber,17.0,13.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:16.561000,0 days 00:01:19.766693548,2
+STR,Aston Martin,13.0,14.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:16.710000,0 days 00:01:19.522437500,3
+SAR,Williams,15.0,15.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:15.525000,0 days 00:01:18.724571428,2
+ZHO,Kick Sauber,18.0,16.0,Monaco Grand Prix,Monaco,2024,0 days 00:01:14.718000,0 days 00:01:18.237384615,2
+OCO,Alpine,11.0,17.0,Monaco Grand Prix,Monaco,2024,,,0
+PER,Red Bull Racing,16.0,18.0,Monaco Grand Prix,Monaco,2024,,,0
+HUL,Haas F1 Team,19.0,19.0,Monaco Grand Prix,Monaco,2024,,,0
+MAG,Haas F1 Team,20.0,20.0,Monaco Grand Prix,Monaco,2024,,,0

@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,1.0,1.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:32.864000,0 days 00:01:34.155204545,3
+VER,Red Bull Racing,3.0,2.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:32.014000,0 days 00:01:34.093837209,4
+ALB,Red Bull Racing,4.0,3.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:33.684000,0 days 00:01:35.117697674,3
+NOR,McLaren,9.0,4.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:33.588000,0 days 00:01:35.309860465,3
+SAI,McLaren,15.0,5.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:33.411000,0 days 00:01:35.396756097,3
+GAS,AlphaTauri,8.0,6.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:34.817000,0 days 00:01:36.093181818,2
+RIC,Renault,6.0,7.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:32.827000,0 days 00:01:35.502195121,3
+BOT,Mercedes,2.0,8.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:33.352000,0 days 00:01:35.604285714,4
+OCO,Renault,7.0,9.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:34.354000,0 days 00:01:36.014954545,3
+LEC,Ferrari,12.0,10.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:33.625000,0 days 00:01:36.098560975,3
+KVY,AlphaTauri,10.0,11.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:34.141000,0 days 00:01:36.446558139,3
+RUS,Williams,14.0,12.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:35.042000,0 days 00:01:36.902166666,3
+VET,Ferrari,11.0,13.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:33.861000,0 days 00:01:36.710375,3
+LAT,Williams,20.0,14.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:34.591000,0 days 00:01:37.227214285,3
+RAI,Alfa Romeo Racing,17.0,15.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:33.573000,0 days 00:01:36.853350,3
+GIO,Alfa Romeo Racing,16.0,16.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:34.536000,0 days 00:01:37.267333333,3
+MAG,Haas F1 Team,18.0,17.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:35.241000,0 days 00:01:37.845904761,4
+PER,Racing Point,5.0,18.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:01:33.629000,0 days 00:01:35.055209302,3
+STR,Racing Point,13.0,19.0,Bahrain Grand Prix,Bahrain,2020,0 days 00:02:45.807000,0 days 00:02:45.807000,1
+GRO,Haas F1 Team,19.0,20.0,Bahrain Grand Prix,Bahrain,2020,,,0

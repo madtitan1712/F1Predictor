@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+PER,Red Bull Racing,2.0,1.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:48.165000,0 days 00:01:49.911052631,1
+LEC,Ferrari,1.0,2.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:48.753000,0 days 00:01:50.554900,1
+SAI,Ferrari,4.0,3.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:48.414000,0 days 00:01:50.511421052,1
+NOR,McLaren,6.0,4.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:49.212000,0 days 00:01:50.986157894,1
+RIC,McLaren,16.0,5.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:51.006000,0 days 00:01:53.209333333,1
+STR,Aston Martin,11.0,6.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:50.283000,0 days 00:01:52.642210526,1
+VER,Red Bull Racing,8.0,7.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:49.142000,0 days 00:01:50.731777777,2
+VET,Aston Martin,13.0,8.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:50.669000,0 days 00:01:52.714105263,1
+HAM,Mercedes,3.0,9.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:50.622000,0 days 00:01:53.150428571,1
+GAS,AlphaTauri,7.0,10.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:50.569000,0 days 00:01:52.983052631,1
+BOT,Alfa Romeo,15.0,11.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:51.864000,0 days 00:01:54.564727272,1
+MAG,Haas F1 Team,9.0,12.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:52.067000,0 days 00:01:54.611272727,2
+MSC,Haas F1 Team,12.0,13.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:50.290000,0 days 00:01:52.654000,2
+RUS,Mercedes,0.0,14.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:46.458000,0 days 00:01:50.712375,4
+TSU,AlphaTauri,10.0,15.0,Singapore Grand Prix,Singapore,2022,0 days 00:01:58.716000,0 days 00:02:02.508000,1
+OCO,Alpine,17.0,16.0,Singapore Grand Prix,Singapore,2022,0 days 00:02:01.105000,0 days 00:02:03.329947368,0
+ALB,Williams,18.0,17.0,Singapore Grand Prix,Singapore,2022,0 days 00:02:02.121000,0 days 00:02:04.276944444,0
+ALO,Alpine,5.0,18.0,Singapore Grand Prix,Singapore,2022,0 days 00:02:00.463000,0 days 00:02:02.000250,0
+LAT,Williams,19.0,19.0,Singapore Grand Prix,Singapore,2022,0 days 00:02:05.585000,0 days 00:02:07.096800,0
+ZHO,Alfa Romeo,14.0,20.0,Singapore Grand Prix,Singapore,2022,0 days 00:02:05.556000,0 days 00:02:07.089800,0

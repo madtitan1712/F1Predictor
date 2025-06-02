@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,1.0,1.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:47.758000,0 days 00:01:49.023050,1
+BOT,Mercedes,2.0,2.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:47.983000,0 days 00:01:49.274050,1
+VER,Red Bull Racing,3.0,3.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:48.305000,0 days 00:01:49.545725,1
+RIC,Renault,4.0,4.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:47.483000,0 days 00:01:49.634564102,1
+OCO,Renault,6.0,5.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:48.540000,0 days 00:01:50.223179487,1
+ALB,Red Bull Racing,5.0,6.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:48.736000,0 days 00:01:50.300794871,1
+NOR,McLaren,10.0,7.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:48.552000,0 days 00:01:50.420368421,1
+GAS,AlphaTauri,12.0,8.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:47.839000,0 days 00:01:50.116837837,1
+STR,Racing Point,9.0,9.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:49.136000,0 days 00:01:50.616435897,1
+PER,Racing Point,8.0,10.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:48.389000,0 days 00:01:50.473394736,1
+KVY,AlphaTauri,11.0,11.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:49.832000,0 days 00:01:51.115289473,1
+RAI,Alfa Romeo Racing,16.0,12.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:49.822000,0 days 00:01:51.202263157,1
+VET,Ferrari,14.0,13.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:49.958000,0 days 00:01:51.247421052,1
+LEC,Ferrari,13.0,14.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:47.840000,0 days 00:01:50.929783783,2
+GRO,Haas F1 Team,17.0,15.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:50.018000,0 days 00:01:51.375105263,1
+LAT,Williams,19.0,16.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:48.048000,0 days 00:01:51.200270270,2
+MAG,Haas F1 Team,20.0,17.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:48.083000,0 days 00:01:51.220055555,2
+GIO,Alfa Romeo Racing,18.0,18.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:51.793000,0 days 00:01:52.675625,0
+RUS,Williams,15.0,19.0,Belgian Grand Prix,Belgium,2020,0 days 00:01:51.754000,0 days 00:01:52.781750,0
+SAI,McLaren,7.0,20.0,Belgian Grand Prix,Belgium,2020,,,0

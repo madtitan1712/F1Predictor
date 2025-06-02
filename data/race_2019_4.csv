@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+BOT,Mercedes,1.0,1.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:44.024000,0 days 00:01:46.488000,1
+HAM,Mercedes,2.0,2.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:44.166000,0 days 00:01:46.367695652,1
+VET,Ferrari,3.0,3.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:44.629000,0 days 00:01:46.589565217,1
+VER,Red Bull Racing,4.0,4.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:44.794000,0 days 00:01:46.662043478,1
+LEC,Ferrari,8.0,5.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:43.009000,0 days 00:01:47.158309523,2
+PER,Racing Point,5.0,6.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:45.524000,0 days 00:01:47.854239130,1
+SAI,McLaren,9.0,7.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:45.807000,0 days 00:01:47.987478260,1
+NOR,McLaren,7.0,8.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:45.394000,0 days 00:01:48.002000,2
+STR,Racing Point,13.0,9.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:46.009000,0 days 00:01:48.223369565,1
+RAI,Alfa Romeo Racing,0.0,10.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:46.479000,0 days 00:01:48.533222222,1
+ALB,Toro Rosso,11.0,11.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:45.754000,0 days 00:01:48.388071428,1
+GIO,Alfa Romeo Racing,17.0,12.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:45.969000,0 days 00:01:48.425534883,1
+MAG,Haas F1 Team,12.0,13.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:46.682000,0 days 00:01:49.041204545,2
+HUL,Renault,15.0,14.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:47.407000,0 days 00:01:49.515372093,2
+RUS,Williams,16.0,15.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:47.251000,0 days 00:01:50.474279069,2
+KUB,Williams,0.0,16.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:47.709000,0 days 00:01:51.006500,3
+GAS,Red Bull Racing,0.0,17.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:45.712000,0 days 00:01:47.799000,0
+GRO,Haas F1 Team,14.0,18.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:48.517000,0 days 00:01:50.476882352,1
+KVY,Toro Rosso,6.0,19.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:47.681000,0 days 00:01:49.018148148,1
+RIC,Renault,10.0,20.0,Azerbaijan Grand Prix,Azerbaijan,2019,0 days 00:01:46.767000,0 days 00:01:49.091111111,1

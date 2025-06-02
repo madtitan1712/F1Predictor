@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VET,Ferrari,1.0,1.0,Canadian Grand Prix,Canada,2018,0 days 00:01:13.964000,0 days 00:01:15.187076923,2
+BOT,Mercedes,2.0,2.0,Canadian Grand Prix,Canada,2018,0 days 00:01:13.992000,0 days 00:01:15.260861538,2
+VER,Red Bull Racing,3.0,3.0,Canadian Grand Prix,Canada,2018,0 days 00:01:13.864000,0 days 00:01:15.255230769,2
+RIC,Red Bull Racing,6.0,4.0,Canadian Grand Prix,Canada,2018,0 days 00:01:13.835000,0 days 00:01:15.436323076,2
+HAM,Mercedes,4.0,5.0,Canadian Grand Prix,Canada,2018,0 days 00:01:14.183000,0 days 00:01:15.484076923,2
+RAI,Ferrari,5.0,6.0,Canadian Grand Prix,Canada,2018,0 days 00:01:14.075000,0 days 00:01:15.562923076,2
+HUL,Renault,7.0,7.0,Canadian Grand Prix,Canada,2018,0 days 00:01:15.488000,0 days 00:01:16.676484375,2
+SAI,Renault,9.0,8.0,Canadian Grand Prix,Canada,2018,0 days 00:01:15.666000,0 days 00:01:16.722703125,2
+OCO,Force India,8.0,9.0,Canadian Grand Prix,Canada,2018,0 days 00:01:15.498000,0 days 00:01:16.743484375,2
+LEC,Sauber,13.0,10.0,Canadian Grand Prix,Canada,2018,0 days 00:01:15.351000,0 days 00:01:16.894968750,2
+GAS,Toro Rosso,16.0,11.0,Canadian Grand Prix,Canada,2018,0 days 00:01:15.699000,0 days 00:01:16.876111111,2
+GRO,Haas F1 Team,20.0,12.0,Canadian Grand Prix,Canada,2018,0 days 00:01:15.470000,0 days 00:01:16.826349206,2
+MAG,Haas F1 Team,11.0,13.0,Canadian Grand Prix,Canada,2018,0 days 00:01:15.401000,0 days 00:01:16.959158730,2
+PER,Force India,10.0,14.0,Canadian Grand Prix,Canada,2018,0 days 00:01:15.100000,0 days 00:01:16.625290322,3
+ERI,Sauber,19.0,15.0,Canadian Grand Prix,Canada,2018,0 days 00:01:16.403000,0 days 00:01:17.788936507,1
+VAN,McLaren,15.0,16.0,Canadian Grand Prix,Canada,2018,0 days 00:01:15.765000,0 days 00:01:17.566870967,2
+SIR,Williams,18.0,17.0,Canadian Grand Prix,Canada,2018,0 days 00:01:15.924000,0 days 00:01:17.713593220,2
+ALO,McLaren,14.0,18.0,Canadian Grand Prix,Canada,2018,0 days 00:01:16.180000,0 days 00:01:17.214800,2
+HAR,Toro Rosso,12.0,19.0,Canadian Grand Prix,Canada,2018,,,0
+STR,Williams,17.0,20.0,Canadian Grand Prix,Canada,2018,,,0

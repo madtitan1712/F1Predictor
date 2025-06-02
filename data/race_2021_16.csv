@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+BOT,Mercedes,1.0,1.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:30.432000,0 days 00:01:33.864245614,1
+VER,Red Bull Racing,2.0,2.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.759000,0 days 00:01:34.161087719,1
+PER,Red Bull Racing,6.0,3.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.459000,0 days 00:01:34.392785714,1
+LEC,Ferrari,3.0,4.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.737000,0 days 00:01:34.523070175,1
+HAM,Mercedes,11.0,5.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.763000,0 days 00:01:34.487000,1
+GAS,AlphaTauri,4.0,6.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.814000,0 days 00:01:34.443303571,1
+NOR,McLaren,7.0,7.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.446000,0 days 00:01:34.586125,1
+SAI,Ferrari,19.0,8.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:31.921000,0 days 00:01:34.424589285,1
+STR,Aston Martin,8.0,9.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.608000,0 days 00:01:34.937410714,1
+OCO,Alpine,12.0,10.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:34.584000,0 days 00:01:35.883732142,0
+GIO,Alfa Romeo Racing,16.0,11.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.904000,0 days 00:01:35.561054545,1
+RAI,Alfa Romeo Racing,17.0,12.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.586000,0 days 00:01:35.650218181,1
+RIC,McLaren,20.0,13.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:33.255000,0 days 00:01:35.666509090,1
+TSU,AlphaTauri,9.0,14.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.844000,0 days 00:01:35.597851851,1
+RUS,Williams,13.0,15.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:33.399000,0 days 00:01:35.822327272,1
+ALO,Alpine,5.0,16.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:33.252000,0 days 00:01:35.734636363,1
+LAT,Williams,15.0,17.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:33.672000,0 days 00:01:35.450673076,1
+VET,Aston Martin,10.0,18.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:32.730000,0 days 00:01:35.208574074,2
+MSC,Haas F1 Team,14.0,19.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:34.209000,0 days 00:01:37.098607843,1
+MAZ,Haas F1 Team,18.0,20.0,Turkish Grand Prix,Turkey,2021,0 days 00:01:35.438000,0 days 00:01:37.792648148,1

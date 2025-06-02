@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,1.0,1.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:18.833000,0 days 00:01:22.177688888,5
+BOT,Mercedes,2.0,2.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:19.432000,0 days 00:01:22.367818181,5
+ALB,Red Bull Racing,4.0,3.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:20.039000,0 days 00:01:22.740069767,5
+RIC,Renault,8.0,4.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:20.426000,0 days 00:01:22.817046511,5
+PER,Racing Point,7.0,5.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:20.632000,0 days 00:01:23.212000,5
+NOR,McLaren,11.0,6.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:21.198000,0 days 00:01:23.276627906,5
+KVY,AlphaTauri,12.0,7.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:21.458000,0 days 00:01:23.475785714,5
+LEC,Ferrari,5.0,8.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:21.229000,0 days 00:01:23.629463414,5
+RAI,Alfa Romeo Racing,13.0,9.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:21.164000,0 days 00:01:23.942780487,6
+VET,Ferrari,14.0,10.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:21.202000,0 days 00:01:23.981190476,6
+RUS,Williams,18.0,11.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:21.645000,0 days 00:01:24.039071428,5
+GRO,Haas F1 Team,15.0,12.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:22.263000,0 days 00:01:24.869390243,5
+STR,Racing Point,6.0,13.0,Tuscan Grand Prix,Italy,2020,0 days 00:01:22.068000,0 days 00:01:23.601419354,3
+OCO,Renault,10.0,14.0,Tuscan Grand Prix,Italy,2020,0 days 00:02:03.478000,0 days 00:02:07.635500,1
+LAT,Williams,19.0,15.0,Tuscan Grand Prix,Italy,2020,0 days 00:02:09.418000,0 days 00:02:13.227600,0
+MAG,Haas F1 Team,20.0,16.0,Tuscan Grand Prix,Italy,2020,0 days 00:02:08.433000,0 days 00:02:13.577750,0
+GIO,Alfa Romeo Racing,17.0,17.0,Tuscan Grand Prix,Italy,2020,0 days 00:02:10.612000,0 days 00:02:13.861750,0
+SAI,McLaren,9.0,18.0,Tuscan Grand Prix,Italy,2020,0 days 00:02:14.103000,0 days 00:02:15.890800,0
+VER,Red Bull Racing,3.0,19.0,Tuscan Grand Prix,Italy,2020,,,0
+GAS,AlphaTauri,16.0,20.0,Tuscan Grand Prix,Italy,2020,,,0

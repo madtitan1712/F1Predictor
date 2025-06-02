@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VER,Red Bull Racing,1.0,1.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:29.392000,0 days 00:01:30.433631578,1
+LEC,Ferrari,3.0,2.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:29.719000,0 days 00:01:30.587438596,1
+PER,Red Bull Racing,2.0,3.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:28.972000,0 days 00:01:30.257196428,2
+SAI,Ferrari,4.0,4.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:28.879000,0 days 00:01:30.451836363,2
+RUS,Mercedes,6.0,5.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:28.836000,0 days 00:01:30.497145454,2
+NOR,McLaren,7.0,6.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:28.391000,0 days 00:01:30.993218181,2
+OCO,Alpine,8.0,7.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:29.333000,0 days 00:01:30.989218181,2
+STR,Aston Martin,14.0,8.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:29.620000,0 days 00:01:31.327927272,2
+RIC,McLaren,13.0,9.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:30.785000,0 days 00:01:31.728607142,1
+VET,Aston Martin,9.0,10.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:30.312000,0 days 00:01:31.764214285,1
+TSU,AlphaTauri,11.0,11.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:29.489000,0 days 00:01:31.501418181,2
+ZHO,Alfa Romeo,15.0,12.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:29.600000,0 days 00:01:31.835351851,2
+ALB,Williams,19.0,13.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:29.939000,0 days 00:01:31.881925925,2
+GAS,AlphaTauri,17.0,14.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:31.018000,0 days 00:01:32.236727272,1
+BOT,Alfa Romeo,18.0,15.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:30.352000,0 days 00:01:32.350927272,1
+MSC,Haas F1 Team,12.0,16.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:29.833000,0 days 00:01:32.112037735,2
+MAG,Haas F1 Team,16.0,17.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:31.158000,0 days 00:01:32.770436363,1
+HAM,Mercedes,5.0,18.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:29.788000,0 days 00:01:30.915396226,1
+LAT,Williams,20.0,19.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:30.309000,0 days 00:01:32.460400,2
+ALO,Alpine,10.0,20.0,Abu Dhabi Grand Prix,Abu Dhabi,2022,0 days 00:01:30.579000,0 days 00:01:32.190320,1

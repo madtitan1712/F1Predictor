@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VER,Red Bull Racing,1.0,1.0,French Grand Prix,France,2021,0 days 00:01:36.404000,0 days 00:01:38.091360,2
+HAM,Mercedes,2.0,2.0,French Grand Prix,France,2021,0 days 00:01:37.410000,0 days 00:01:38.531980392,1
+PER,Red Bull Racing,4.0,3.0,French Grand Prix,France,2021,0 days 00:01:36.693000,0 days 00:01:38.586549019,1
+BOT,Mercedes,3.0,4.0,French Grand Prix,France,2021,0 days 00:01:36.960000,0 days 00:01:38.714235294,1
+NOR,McLaren,8.0,5.0,French Grand Prix,France,2021,0 days 00:01:37.425000,0 days 00:01:39.566784313,1
+RIC,McLaren,10.0,6.0,French Grand Prix,France,2021,0 days 00:01:38.324000,0 days 00:01:39.808843137,1
+GAS,AlphaTauri,6.0,7.0,French Grand Prix,France,2021,0 days 00:01:38.103000,0 days 00:01:39.821921568,1
+ALO,Alpine,9.0,8.0,French Grand Prix,France,2021,0 days 00:01:37.646000,0 days 00:01:39.826529411,1
+VET,Aston Martin,12.0,9.0,French Grand Prix,France,2021,0 days 00:01:37.138000,0 days 00:01:39.855254901,1
+STR,Aston Martin,19.0,10.0,French Grand Prix,France,2021,0 days 00:01:37.828000,0 days 00:01:40.038960784,1
+SAI,Ferrari,5.0,11.0,French Grand Prix,France,2021,0 days 00:01:38.931000,0 days 00:01:40.302274509,1
+RUS,Williams,14.0,12.0,French Grand Prix,France,2021,0 days 00:01:38.314000,0 days 00:01:40.367080,1
+TSU,AlphaTauri,0.0,13.0,French Grand Prix,France,2021,0 days 00:01:38.980000,0 days 00:01:40.419620,1
+OCO,Alpine,11.0,14.0,French Grand Prix,France,2021,0 days 00:01:38.645000,0 days 00:01:40.511040,1
+GIO,Alfa Romeo Racing,13.0,15.0,French Grand Prix,France,2021,0 days 00:01:38.702000,0 days 00:01:40.575860,1
+LEC,Ferrari,7.0,16.0,French Grand Prix,France,2021,0 days 00:01:37.681000,0 days 00:01:40.280061224,2
+RAI,Alfa Romeo Racing,17.0,17.0,French Grand Prix,France,2021,0 days 00:01:37.992000,0 days 00:01:40.637600,1
+LAT,Williams,16.0,18.0,French Grand Prix,France,2021,0 days 00:01:38.313000,0 days 00:01:40.681880,1
+MSC,Haas F1 Team,15.0,19.0,French Grand Prix,France,2021,0 days 00:01:38.847000,0 days 00:01:40.947479166,1
+MAZ,Haas F1 Team,18.0,20.0,French Grand Prix,France,2021,0 days 00:01:39.317000,0 days 00:01:41.399387755,1

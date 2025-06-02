@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+LEC,Ferrari,1.0,1.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:34.570000,0 days 00:01:37.604208333,3
+SAI,Ferrari,3.0,2.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:35.740000,0 days 00:01:38.159854166,3
+HAM,Mercedes,5.0,3.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:36.228000,0 days 00:01:38.565877551,3
+RUS,Mercedes,9.0,4.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:36.302000,0 days 00:01:38.706914893,3
+MAG,Haas F1 Team,7.0,5.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:36.623000,0 days 00:01:39.218333333,3
+BOT,Alfa Romeo,6.0,6.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:36.599000,0 days 00:01:39.435787234,3
+OCO,Alpine,11.0,7.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:37.110000,0 days 00:01:39.399739130,3
+TSU,AlphaTauri,16.0,8.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:37.104000,0 days 00:01:39.604979166,3
+ALO,Alpine,8.0,9.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:36.733000,0 days 00:01:39.681260869,3
+ZHO,Alfa Romeo,15.0,10.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:36.685000,0 days 00:01:39.646916666,3
+MSC,Haas F1 Team,12.0,11.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:36.956000,0 days 00:01:40.118173913,2
+STR,Aston Martin,19.0,12.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:37.146000,0 days 00:01:40.238673469,3
+ALB,Williams,14.0,13.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:37.355000,0 days 00:01:40.526125,3
+RIC,McLaren,18.0,14.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:37.261000,0 days 00:01:40.487291666,3
+NOR,McLaren,13.0,15.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:36.988000,0 days 00:01:40.738354166,3
+LAT,Williams,20.0,16.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:38.251000,0 days 00:01:40.867645833,3
+HUL,Aston Martin,17.0,17.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:38.201000,0 days 00:01:40.858604166,3
+PER,Red Bull Racing,4.0,18.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:36.089000,0 days 00:01:38.329456521,3
+VER,Red Bull Racing,2.0,19.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:35.440000,0 days 00:01:38.118733333,3
+GAS,AlphaTauri,10.0,20.0,Bahrain Grand Prix,Bahrain,2022,0 days 00:01:37.324000,0 days 00:01:39.704634146,2

@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,2.0,1.0,Russian Grand Prix,Russia,2019,0 days 00:01:35.761000,0 days 00:01:38.042000,1
+BOT,Mercedes,4.0,2.0,Russian Grand Prix,Russia,2019,0 days 00:01:36.316000,0 days 00:01:38.370333333,1
+LEC,Ferrari,1.0,3.0,Russian Grand Prix,Russia,2019,0 days 00:01:36.193000,0 days 00:01:37.977604651,2
+VER,Red Bull Racing,9.0,4.0,Russian Grand Prix,Russia,2019,0 days 00:01:36.937000,0 days 00:01:39.123466666,1
+ALB,Red Bull Racing,0.0,5.0,Russian Grand Prix,Russia,2019,0 days 00:01:36.762000,0 days 00:01:40.073255813,1
+SAI,McLaren,5.0,6.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.020000,0 days 00:01:40.078428571,1
+PER,Racing Point,11.0,7.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.043000,0 days 00:01:40.302372093,1
+NOR,McLaren,7.0,8.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.301000,0 days 00:01:40.450523809,1
+MAG,Haas F1 Team,13.0,9.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.130000,0 days 00:01:40.448590909,1
+HUL,Renault,6.0,10.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.519000,0 days 00:01:40.481906976,2
+STR,Racing Point,14.0,11.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.611000,0 days 00:01:40.643454545,1
+KVY,Toro Rosso,19.0,12.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.228000,0 days 00:01:40.813545454,2
+RAI,Alfa Romeo Racing,15.0,13.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.589000,0 days 00:01:40.942534883,2
+GAS,Toro Rosso,16.0,14.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.606000,0 days 00:01:41.093302325,1
+GIO,Alfa Romeo Racing,12.0,15.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.696000,0 days 00:01:41.284953488,2
+KUB,Williams,18.0,16.0,Russian Grand Prix,Russia,2019,0 days 00:01:42.327000,0 days 00:01:43.874304347,2
+RUS,Williams,17.0,17.0,Russian Grand Prix,Russia,2019,0 days 00:01:41.705000,0 days 00:01:42.571000,0
+VET,Ferrari,3.0,18.0,Russian Grand Prix,Russia,2019,0 days 00:01:38.245000,0 days 00:01:39.117478260,0
+RIC,Renault,10.0,19.0,Russian Grand Prix,Russia,2019,0 days 00:01:41.284000,0 days 00:01:42.898285714,1
+GRO,Haas F1 Team,8.0,20.0,Russian Grand Prix,Russia,2019,,,0

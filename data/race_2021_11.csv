@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+OCO,Alpine,8.0,1.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:21.421000,0 days 00:01:22.756138461,3
+HAM,Mercedes,1.0,2.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:18.715000,0 days 00:01:21.565730769,4
+SAI,Ferrari,15.0,3.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:21.423000,0 days 00:01:22.893307692,3
+ALO,Alpine,9.0,4.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:20.359000,0 days 00:01:22.852265625,3
+GAS,AlphaTauri,5.0,5.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:18.394000,0 days 00:01:22.471478260,4
+TSU,AlphaTauri,16.0,6.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:22.450000,0 days 00:01:23.697890625,3
+LAT,Williams,18.0,7.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:22.831000,0 days 00:01:23.852276923,3
+RUS,Williams,17.0,8.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:22.112000,0 days 00:01:23.829661538,3
+VER,Red Bull Racing,3.0,9.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:20.945000,0 days 00:01:23.471000,5
+RAI,Alfa Romeo Racing,13.0,10.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:21.518000,0 days 00:01:23.589983870,4
+RIC,McLaren,11.0,11.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:22.802000,0 days 00:01:24.264523809,3
+MSC,Haas F1 Team,20.0,12.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:22.711000,0 days 00:01:24.375793650,3
+GIO,Alfa Romeo Racing,0.0,13.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:22.736000,0 days 00:01:24.024095238,5
+MAZ,Haas F1 Team,19.0,14.0,Hungarian Grand Prix,Hungary,2021,0 days 00:02:17.794000,0 days 00:02:17.794000,2
+NOR,McLaren,6.0,15.0,Hungarian Grand Prix,Hungary,2021,0 days 00:02:22.425000,0 days 00:02:22.425000,1
+BOT,Mercedes,2.0,16.0,Hungarian Grand Prix,Hungary,2021,,,0
+PER,Red Bull Racing,4.0,17.0,Hungarian Grand Prix,Hungary,2021,,,0
+LEC,Ferrari,7.0,18.0,Hungarian Grand Prix,Hungary,2021,,,0
+STR,Aston Martin,12.0,19.0,Hungarian Grand Prix,Hungary,2021,,,0
+VET,Aston Martin,10.0,20.0,Hungarian Grand Prix,Hungary,2021,0 days 00:01:21.459000,0 days 00:01:22.793046153,3

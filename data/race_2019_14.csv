@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+LEC,Ferrari,1.0,1.0,Italian Grand Prix,Italy,2019,0 days 00:01:23.009000,0 days 00:01:24.217163265,1
+BOT,Mercedes,3.0,2.0,Italian Grand Prix,Italy,2019,0 days 00:01:22.859000,0 days 00:01:24.281979591,1
+HAM,Mercedes,2.0,3.0,Italian Grand Prix,Italy,2019,0 days 00:01:21.779000,0 days 00:01:24.458978723,2
+RIC,Renault,5.0,4.0,Italian Grand Prix,Italy,2019,0 days 00:01:23.466000,0 days 00:01:25.186693877,1
+HUL,Renault,6.0,5.0,Italian Grand Prix,Italy,2019,0 days 00:01:23.641000,0 days 00:01:25.345720,1
+ALB,Red Bull Racing,8.0,6.0,Italian Grand Prix,Italy,2019,0 days 00:01:23.364000,0 days 00:01:25.032829787,1
+PER,Racing Point,18.0,7.0,Italian Grand Prix,Italy,2019,0 days 00:01:23.770000,0 days 00:01:25.479918367,1
+VER,Red Bull Racing,19.0,8.0,Italian Grand Prix,Italy,2019,0 days 00:01:23.143000,0 days 00:01:24.785708333,2
+GIO,Alfa Romeo Racing,10.0,9.0,Italian Grand Prix,Italy,2019,0 days 00:01:24.503000,0 days 00:01:25.820085106,1
+NOR,McLaren,16.0,10.0,Italian Grand Prix,Italy,2019,0 days 00:01:24.044000,0 days 00:01:25.721765957,1
+GAS,Toro Rosso,17.0,11.0,Italian Grand Prix,Italy,2019,0 days 00:01:23.885000,0 days 00:01:25.732042553,1
+STR,Racing Point,9.0,12.0,Italian Grand Prix,Italy,2019,0 days 00:01:24.165000,0 days 00:01:25.367136363,2
+VET,Ferrari,4.0,13.0,Italian Grand Prix,Italy,2019,0 days 00:01:22.799000,0 days 00:01:24.767186046,3
+RUS,Williams,14.0,14.0,Italian Grand Prix,Italy,2019,0 days 00:01:24.842000,0 days 00:01:26.599666666,1
+RAI,Alfa Romeo Racing,0.0,15.0,Italian Grand Prix,Italy,2019,0 days 00:01:24.419000,0 days 00:01:26.309931818,2
+GRO,Haas F1 Team,13.0,16.0,Italian Grand Prix,Italy,2019,0 days 00:01:24.985000,0 days 00:01:26.674288888,2
+KUB,Williams,15.0,17.0,Italian Grand Prix,Italy,2019,0 days 00:01:24.989000,0 days 00:01:27.352688888,2
+MAG,Haas F1 Team,11.0,18.0,Italian Grand Prix,Italy,2019,0 days 00:01:24.443000,0 days 00:01:26.228200,2
+KVY,Toro Rosso,12.0,19.0,Italian Grand Prix,Italy,2019,0 days 00:01:25.772000,0 days 00:01:26.293423076,1
+SAI,McLaren,7.0,20.0,Italian Grand Prix,Italy,2019,0 days 00:01:25.637000,0 days 00:01:26.295692307,0

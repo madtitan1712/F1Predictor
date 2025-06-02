@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VER,Red Bull Racing,1.0,1.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:16.604000,0 days 00:01:17.407020,1
+ALO,Aston Martin,2.0,2.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:16.674000,0 days 00:01:17.610120,2
+OCO,Alpine,3.0,3.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:16.528000,0 days 00:01:17.844755102,2
+HAM,Mercedes,5.0,4.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:15.650000,0 days 00:01:17.847551020,2
+RUS,Mercedes,8.0,5.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:16.798000,0 days 00:01:18.051420,1
+LEC,Ferrari,6.0,6.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:15.773000,0 days 00:01:17.924571428,2
+GAS,Alpine,7.0,7.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:15.831000,0 days 00:01:17.986734693,2
+SAI,Ferrari,4.0,8.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:16.449000,0 days 00:01:17.873673469,2
+NOR,McLaren,10.0,9.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:17.844000,0 days 00:01:18.772375,2
+PIA,McLaren,11.0,10.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:17.513000,0 days 00:01:18.877510204,1
+BOT,Alfa Romeo,15.0,11.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:17.824000,0 days 00:01:19.302755102,1
+DEV,AlphaTauri,12.0,12.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:17.561000,0 days 00:01:19.206224489,1
+ZHO,Alfa Romeo,19.0,13.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:16.926000,0 days 00:01:19.015187500,2
+ALB,Williams,13.0,14.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:16.672000,0 days 00:01:19.109468085,2
+TSU,AlphaTauri,9.0,15.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:17.680000,0 days 00:01:18.671448979,1
+PER,Red Bull Racing,20.0,16.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:16.269000,0 days 00:01:18.433673913,5
+HUL,Haas F1 Team,18.0,17.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:16.991000,0 days 00:01:19.005081632,3
+SAR,Williams,16.0,18.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:17.302000,0 days 00:01:19.360711111,3
+MAG,Haas F1 Team,17.0,19.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:18.351000,0 days 00:01:19.377163265,1
+STR,Aston Martin,14.0,20.0,Monaco Grand Prix,Monaco,2023,0 days 00:01:17.769000,0 days 00:01:19.365265306,1

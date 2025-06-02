@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VER,Red Bull Racing,3.0,1.0,Miami Grand Prix,United States,2022,0 days 00:01:31.361000,0 days 00:01:33.277979591,1
+LEC,Ferrari,1.0,2.0,Miami Grand Prix,United States,2022,0 days 00:01:31.488000,0 days 00:01:33.425877551,1
+SAI,Ferrari,2.0,3.0,Miami Grand Prix,United States,2022,0 days 00:01:31.790000,0 days 00:01:33.726229166,1
+PER,Red Bull Racing,4.0,4.0,Miami Grand Prix,United States,2022,0 days 00:01:31.819000,0 days 00:01:34.021770833,2
+RUS,Mercedes,12.0,5.0,Miami Grand Prix,United States,2022,0 days 00:01:32.195000,0 days 00:01:34.652265306,1
+HAM,Mercedes,6.0,6.0,Miami Grand Prix,United States,2022,0 days 00:01:32.941000,0 days 00:01:34.553395833,1
+BOT,Alfa Romeo,5.0,7.0,Miami Grand Prix,United States,2022,0 days 00:01:33.184000,0 days 00:01:34.632333333,1
+OCO,Alpine,20.0,8.0,Miami Grand Prix,United States,2022,0 days 00:01:33.163000,0 days 00:01:35.254510204,1
+ALB,Williams,18.0,9.0,Miami Grand Prix,United States,2022,0 days 00:01:33.447000,0 days 00:01:35.221042553,1
+STR,Aston Martin,0.0,10.0,Miami Grand Prix,United States,2022,0 days 00:01:33.312000,0 days 00:01:35.421938775,1
+ALO,Alpine,11.0,11.0,Miami Grand Prix,United States,2022,0 days 00:01:33.331000,0 days 00:01:34.974404255,1
+TSU,AlphaTauri,9.0,12.0,Miami Grand Prix,United States,2022,0 days 00:01:33.035000,0 days 00:01:35.397653061,2
+RIC,McLaren,14.0,13.0,Miami Grand Prix,United States,2022,0 days 00:01:33.265000,0 days 00:01:35.422723404,2
+LAT,Williams,19.0,14.0,Miami Grand Prix,United States,2022,0 days 00:01:34.169000,0 days 00:01:36.334687500,1
+MSC,Haas F1 Team,15.0,15.0,Miami Grand Prix,United States,2022,0 days 00:01:32.528000,0 days 00:01:35.095444444,2
+MAG,Haas F1 Team,16.0,16.0,Miami Grand Prix,United States,2022,0 days 00:01:33.511000,0 days 00:01:35.292021739,2
+VET,Aston Martin,0.0,17.0,Miami Grand Prix,United States,2022,0 days 00:01:33.479000,0 days 00:01:35.507177777,1
+GAS,AlphaTauri,7.0,18.0,Miami Grand Prix,United States,2022,0 days 00:01:34.487000,0 days 00:01:35.684815789,2
+NOR,McLaren,8.0,19.0,Miami Grand Prix,United States,2022,0 days 00:01:33.411000,0 days 00:01:35.445729729,1
+ZHO,Alfa Romeo,17.0,20.0,Miami Grand Prix,United States,2022,0 days 00:01:35.731000,0 days 00:01:36.457000,0

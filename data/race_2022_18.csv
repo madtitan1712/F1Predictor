@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VER,Red Bull Racing,1.0,1.0,Japanese Grand Prix,Japan,2022,0 days 00:01:44.911000,0 days 00:01:47.249857142,2
+PER,Red Bull Racing,4.0,2.0,Japanese Grand Prix,Japan,2022,0 days 00:01:46.120000,0 days 00:01:48.065600,2
+LEC,Ferrari,2.0,3.0,Japanese Grand Prix,Japan,2022,0 days 00:01:44.489000,0 days 00:01:48.405571428,2
+OCO,Alpine,5.0,4.0,Japanese Grand Prix,Japan,2022,0 days 00:01:46.559000,0 days 00:01:48.575150,2
+HAM,Mercedes,6.0,5.0,Japanese Grand Prix,Japan,2022,0 days 00:01:45.530000,0 days 00:01:48.516800,2
+VET,Aston Martin,9.0,6.0,Japanese Grand Prix,Japan,2022,0 days 00:01:46.964000,0 days 00:01:48.804227272,2
+ALO,Alpine,7.0,7.0,Japanese Grand Prix,Japan,2022,0 days 00:01:44.412000,0 days 00:01:47.714000,3
+RUS,Mercedes,8.0,8.0,Japanese Grand Prix,Japan,2022,0 days 00:01:47.004000,0 days 00:01:48.424700,2
+LAT,Williams,20.0,9.0,Japanese Grand Prix,Japan,2022,0 days 00:01:48.371000,0 days 00:01:49.778909090,2
+NOR,McLaren,10.0,10.0,Japanese Grand Prix,Japan,2022,0 days 00:01:48.175000,0 days 00:01:49.708857142,2
+RIC,McLaren,11.0,11.0,Japanese Grand Prix,Japan,2022,0 days 00:01:47.843000,0 days 00:01:49.748700,2
+STR,Aston Martin,19.0,12.0,Japanese Grand Prix,Japan,2022,0 days 00:01:45.205000,0 days 00:01:48.588388888,3
+TSU,AlphaTauri,13.0,13.0,Japanese Grand Prix,Japan,2022,0 days 00:01:45.893000,0 days 00:01:48.906157894,3
+MAG,Haas F1 Team,18.0,14.0,Japanese Grand Prix,Japan,2022,0 days 00:01:48.072000,0 days 00:01:50.169900,2
+BOT,Alfa Romeo,12.0,15.0,Japanese Grand Prix,Japan,2022,0 days 00:01:47.820000,0 days 00:01:50.269571428,2
+ZHO,Alfa Romeo,14.0,16.0,Japanese Grand Prix,Japan,2022,0 days 00:01:44.411000,0 days 00:01:48.511562500,3
+MSC,Haas F1 Team,15.0,17.0,Japanese Grand Prix,Japan,2022,0 days 00:01:46.545000,0 days 00:01:49.913117647,2
+GAS,AlphaTauri,17.0,18.0,Japanese Grand Prix,Japan,2022,0 days 00:01:45.387000,0 days 00:01:48.988055555,4
+SAI,Ferrari,3.0,19.0,Japanese Grand Prix,Japan,2022,,,0
+ALB,Williams,16.0,20.0,Japanese Grand Prix,Japan,2022,,,0

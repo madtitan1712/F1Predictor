@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VER,Red Bull Racing,2.0,1.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.240000,0 days 00:01:26.309660,1
+PER,Red Bull Racing,5.0,2.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.522000,0 days 00:01:26.439580,1
+SAI,Ferrari,1.0,3.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.501000,0 days 00:01:26.401265306,1
+LEC,Ferrari,3.0,4.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.580000,0 days 00:01:26.533560,1
+RUS,Mercedes,4.0,5.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.847000,0 days 00:01:26.570938775,1
+HAM,Mercedes,8.0,6.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.582000,0 days 00:01:26.825104166,1
+ALB,Williams,6.0,7.0,Italian Grand Prix,Italy,2023,0 days 00:01:26.389000,0 days 00:01:27.172880,1
+NOR,McLaren,9.0,8.0,Italian Grand Prix,Italy,2023,0 days 00:01:26.144000,0 days 00:01:27.206200,1
+ALO,Aston Martin,10.0,9.0,Italian Grand Prix,Italy,2023,0 days 00:01:26.105000,0 days 00:01:26.967666666,1
+BOT,Alfa Romeo,14.0,10.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.988000,0 days 00:01:27.317553191,1
+LAW,AlphaTauri,12.0,11.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.842000,0 days 00:01:27.063673913,2
+PIA,McLaren,7.0,12.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.072000,0 days 00:01:26.874456521,2
+SAR,Williams,15.0,13.0,Italian Grand Prix,Italy,2023,0 days 00:01:26.840000,0 days 00:01:27.476148936,1
+ZHO,Alfa Romeo,16.0,14.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.983000,0 days 00:01:27.094977777,2
+GAS,Alpine,17.0,15.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.758000,0 days 00:01:27.060755555,2
+STR,Aston Martin,20.0,16.0,Italian Grand Prix,Italy,2023,0 days 00:01:26.617000,0 days 00:01:27.640085106,1
+HUL,Haas F1 Team,13.0,17.0,Italian Grand Prix,Italy,2023,0 days 00:01:25.894000,0 days 00:01:27.319266666,2
+MAG,Haas F1 Team,19.0,18.0,Italian Grand Prix,Italy,2023,0 days 00:01:26.278000,0 days 00:01:27.446955555,2
+OCO,Alpine,18.0,19.0,Italian Grand Prix,Italy,2023,0 days 00:01:26.963000,0 days 00:01:27.766885714,1
+TSU,AlphaTauri,11.0,20.0,Italian Grand Prix,Italy,2023,,,0

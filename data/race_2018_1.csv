@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VET,Ferrari,3.0,1.0,Australian Grand Prix,Australia,2018,0 days 00:01:26.469000,0 days 00:01:28.057843137,2
+HAM,Mercedes,1.0,2.0,Australian Grand Prix,Australia,2018,0 days 00:01:26.444000,0 days 00:01:27.969326530,2
+RAI,Ferrari,2.0,3.0,Australian Grand Prix,Australia,2018,0 days 00:01:26.373000,0 days 00:01:28.057142857,2
+RIC,Red Bull Racing,8.0,4.0,Australian Grand Prix,Australia,2018,0 days 00:01:25.945000,0 days 00:01:28.619568627,2
+ALO,McLaren,10.0,5.0,Australian Grand Prix,Australia,2018,0 days 00:01:26.978000,0 days 00:01:29.144549019,2
+VER,Red Bull Racing,4.0,6.0,Australian Grand Prix,Australia,2018,0 days 00:01:26.880000,0 days 00:01:28.937702127,2
+HUL,Renault,7.0,7.0,Australian Grand Prix,Australia,2018,0 days 00:01:27.081000,0 days 00:01:29.196285714,2
+BOT,Mercedes,15.0,8.0,Australian Grand Prix,Australia,2018,0 days 00:01:27.019000,0 days 00:01:29.387204081,2
+VAN,McLaren,11.0,9.0,Australian Grand Prix,Australia,2018,0 days 00:01:26.958000,0 days 00:01:29.428200,2
+SAI,Renault,9.0,10.0,Australian Grand Prix,Australia,2018,0 days 00:01:27.944000,0 days 00:01:29.464666666,2
+PER,Force India,12.0,11.0,Australian Grand Prix,Australia,2018,0 days 00:01:27.633000,0 days 00:01:29.687673469,2
+OCO,Force India,14.0,12.0,Australian Grand Prix,Australia,2018,0 days 00:01:27.600000,0 days 00:01:29.945382978,2
+LEC,Sauber,18.0,13.0,Australian Grand Prix,Australia,2018,0 days 00:01:28.759000,0 days 00:01:30.499448979,3
+STR,Williams,13.0,14.0,Australian Grand Prix,Australia,2018,0 days 00:01:28.511000,0 days 00:01:30.607780,3
+HAR,Toro Rosso,16.0,15.0,Australian Grand Prix,Australia,2018,0 days 00:01:28.176000,0 days 00:01:30.492291666,2
+GRO,Haas F1 Team,6.0,16.0,Australian Grand Prix,Australia,2018,0 days 00:01:28.805000,0 days 00:01:30.244954545,1
+MAG,Haas F1 Team,5.0,17.0,Australian Grand Prix,Australia,2018,0 days 00:01:29.534000,0 days 00:01:30.348500,1
+GAS,Toro Rosso,20.0,18.0,Australian Grand Prix,Australia,2018,0 days 00:01:30.649000,0 days 00:01:31.655545454,1
+ERI,Sauber,17.0,19.0,Australian Grand Prix,Australia,2018,0 days 00:01:32.210000,0 days 00:01:32.605500,1
+SIR,Williams,19.0,20.0,Australian Grand Prix,Australia,2018,0 days 00:01:32.573000,0 days 00:01:33.217666666,1

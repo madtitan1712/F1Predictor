@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VER,Red Bull Racing,1.0,1.0,Australian Grand Prix,Australia,2023,0 days 00:01:20.342000,0 days 00:01:21.862159090,3
+HAM,Mercedes,3.0,2.0,Australian Grand Prix,Australia,2023,0 days 00:01:20.613000,0 days 00:01:22.084022727,3
+ALO,Aston Martin,4.0,3.0,Australian Grand Prix,Australia,2023,0 days 00:01:20.476000,0 days 00:01:22.085568181,3
+STR,Aston Martin,6.0,4.0,Australian Grand Prix,Australia,2023,0 days 00:01:20.934000,0 days 00:01:22.263704545,3
+PER,Red Bull Racing,20.0,5.0,Australian Grand Prix,Australia,2023,0 days 00:01:20.235000,0 days 00:01:22.119697674,5
+NOR,McLaren,13.0,6.0,Australian Grand Prix,Australia,2023,0 days 00:01:21.173000,0 days 00:01:22.492795454,3
+HUL,Haas F1 Team,10.0,7.0,Australian Grand Prix,Australia,2023,0 days 00:01:21.124000,0 days 00:01:22.573568181,3
+PIA,McLaren,16.0,8.0,Australian Grand Prix,Australia,2023,0 days 00:01:21.335000,0 days 00:01:22.887295454,4
+ZHO,Alfa Romeo,17.0,9.0,Australian Grand Prix,Australia,2023,0 days 00:01:21.819000,0 days 00:01:23.314431818,5
+TSU,AlphaTauri,12.0,10.0,Australian Grand Prix,Australia,2023,0 days 00:01:21.789000,0 days 00:01:23.370627906,4
+BOT,Alfa Romeo,19.0,11.0,Australian Grand Prix,Australia,2023,0 days 00:01:22.233000,0 days 00:01:23.542930232,6
+SAI,Ferrari,5.0,12.0,Australian Grand Prix,Australia,2023,0 days 00:01:20.467000,0 days 00:01:22.051113636,4
+GAS,Alpine,9.0,13.0,Australian Grand Prix,Australia,2023,0 days 00:01:20.995000,0 days 00:01:22.288818181,2
+OCO,Alpine,11.0,14.0,Australian Grand Prix,Australia,2023,0 days 00:01:21.203000,0 days 00:01:22.578409090,3
+DEV,AlphaTauri,15.0,15.0,Australian Grand Prix,Australia,2023,0 days 00:01:21.183000,0 days 00:01:23.904195121,4
+SAR,Williams,18.0,16.0,Australian Grand Prix,Australia,2023,0 days 00:01:21.456000,0 days 00:01:23.712219512,6
+MAG,Haas F1 Team,14.0,17.0,Australian Grand Prix,Australia,2023,0 days 00:01:21.685000,0 days 00:01:23.161558139,2
+RUS,Mercedes,2.0,18.0,Australian Grand Prix,Australia,2023,0 days 00:01:22.680000,0 days 00:01:23.305555555,2
+ALB,Williams,8.0,19.0,Australian Grand Prix,Australia,2023,0 days 00:01:23.349000,0 days 00:01:23.771666666,0
+LEC,Ferrari,7.0,20.0,Australian Grand Prix,Australia,2023,,,0

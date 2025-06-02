@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,1.0,1.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:25.084000,0 days 00:01:27.248897959,2
+VER,Red Bull Racing,7.0,2.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:23.196000,0 days 00:01:27.034369565,3
+ALO,Alpine,3.0,3.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:26.682000,0 days 00:01:28.885076923,1
+PER,Red Bull Racing,11.0,4.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:25.613000,0 days 00:01:28.409959183,2
+OCO,Alpine,9.0,5.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:27.061000,0 days 00:01:29.218134615,1
+STR,Aston Martin,12.0,6.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:27.356000,0 days 00:01:29.169500,1
+SAI,Ferrari,5.0,7.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:26.570000,0 days 00:01:29.182903846,1
+LEC,Ferrari,13.0,8.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:26.555000,0 days 00:01:29.061230769,1
+NOR,McLaren,4.0,9.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:25.746000,0 days 00:01:28.913265306,2
+VET,Aston Martin,10.0,10.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:26.434000,0 days 00:01:29.147061224,1
+GAS,AlphaTauri,2.0,11.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:27.019000,0 days 00:01:28.992653061,2
+RIC,McLaren,14.0,12.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:27.198000,0 days 00:01:29.832000,1
+TSU,AlphaTauri,8.0,13.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:27.043000,0 days 00:01:29.301265306,2
+RAI,Alfa Romeo Racing,16.0,14.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:26.358000,0 days 00:01:29.243574468,2
+GIO,Alfa Romeo Racing,18.0,15.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:27.823000,0 days 00:01:29.897408163,2
+MSC,Haas F1 Team,19.0,16.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:28.412000,0 days 00:01:30.269500,1
+RUS,Williams,15.0,17.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:25.768000,0 days 00:01:29.562250,2
+MAZ,Haas F1 Team,20.0,18.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:27.340000,0 days 00:01:31.186333333,1
+LAT,Williams,17.0,19.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:28.732000,0 days 00:01:30.387063829,1
+BOT,Mercedes,6.0,20.0,Qatar Grand Prix,Qatar,2021,0 days 00:01:27.246000,0 days 00:01:29.131288888,1

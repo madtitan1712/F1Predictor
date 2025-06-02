@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VER,Red Bull Racing,1.0,1.0,Austrian Grand Prix,Austria,2023,0 days 00:01:07.012000,0 days 00:01:09.308508474,4
+LEC,Ferrari,2.0,2.0,Austrian Grand Prix,Austria,2023,0 days 00:01:08.820000,0 days 00:01:09.859079365,3
+PER,Red Bull Racing,15.0,3.0,Austrian Grand Prix,Austria,2023,0 days 00:01:08.111000,0 days 00:01:09.836901639,3
+NOR,McLaren,4.0,4.0,Austrian Grand Prix,Austria,2023,0 days 00:01:08.739000,0 days 00:01:10.160593750,3
+ALO,Aston Martin,7.0,5.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.108000,0 days 00:01:10.162587301,3
+SAI,Ferrari,3.0,6.0,Austrian Grand Prix,Austria,2023,0 days 00:01:08.880000,0 days 00:01:09.908857142,3
+RUS,Mercedes,11.0,7.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.283000,0 days 00:01:10.464421875,3
+HAM,Mercedes,5.0,8.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.160000,0 days 00:01:10.317328125,3
+STR,Aston Martin,6.0,9.0,Austrian Grand Prix,Austria,2023,0 days 00:01:08.463000,0 days 00:01:10.199262295,4
+GAS,Alpine,9.0,10.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.046000,0 days 00:01:10.517218750,3
+ALB,Williams,10.0,11.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.560000,0 days 00:01:10.773369230,3
+ZHO,Alfa Romeo,17.0,12.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.786000,0 days 00:01:10.958245901,3
+SAR,Williams,18.0,13.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.611000,0 days 00:01:10.986238095,3
+OCO,Alpine,12.0,14.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.797000,0 days 00:01:10.838619047,3
+BOT,Alfa Romeo,14.0,15.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.940000,0 days 00:01:11.164225806,3
+PIA,McLaren,13.0,16.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.862000,0 days 00:01:11.056193548,4
+DEV,AlphaTauri,20.0,17.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.852000,0 days 00:01:11.083803278,3
+MAG,Haas F1 Team,19.0,18.0,Austrian Grand Prix,Austria,2023,0 days 00:01:10.176000,0 days 00:01:11.685730158,3
+TSU,AlphaTauri,16.0,19.0,Austrian Grand Prix,Austria,2023,0 days 00:01:09.620000,0 days 00:01:11.190114754,4
+HUL,Haas F1 Team,8.0,20.0,Austrian Grand Prix,Austria,2023,0 days 00:01:11.066000,0 days 00:01:12.024875,2

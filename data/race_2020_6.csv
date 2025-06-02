@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,1.0,1.0,Spanish Grand Prix,Spain,2020,0 days 00:01:19.822000,0 days 00:01:22.707290322,2
+VER,Red Bull Racing,3.0,2.0,Spanish Grand Prix,Spain,2020,0 days 00:01:21.477000,0 days 00:01:23.117758064,2
+BOT,Mercedes,2.0,3.0,Spanish Grand Prix,Spain,2020,0 days 00:01:18.183000,0 days 00:01:22.480700,3
+STR,Racing Point,5.0,4.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.024000,0 days 00:01:24.252500,2
+PER,Racing Point,4.0,5.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.515000,0 days 00:01:24.545612903,1
+SAI,McLaren,7.0,6.0,Spanish Grand Prix,Spain,2020,0 days 00:01:21.771000,0 days 00:01:24.296516666,2
+VET,Ferrari,11.0,7.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.707000,0 days 00:01:24.772000,1
+ALB,Red Bull Racing,6.0,8.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.194000,0 days 00:01:24.540716666,2
+GAS,AlphaTauri,10.0,9.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.543000,0 days 00:01:24.559344262,2
+NOR,McLaren,8.0,10.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.392000,0 days 00:01:24.568213114,2
+RIC,Renault,13.0,11.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.464000,0 days 00:01:24.745262295,1
+KVY,AlphaTauri,12.0,12.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.336000,0 days 00:01:24.468233333,2
+OCO,Renault,15.0,13.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.174000,0 days 00:01:24.975596774,1
+RAI,Alfa Romeo Racing,14.0,14.0,Spanish Grand Prix,Spain,2020,0 days 00:01:21.888000,0 days 00:01:24.629103448,2
+MAG,Haas F1 Team,16.0,15.0,Spanish Grand Prix,Spain,2020,0 days 00:01:23.474000,0 days 00:01:25.144564516,1
+GIO,Alfa Romeo Racing,20.0,16.0,Spanish Grand Prix,Spain,2020,0 days 00:01:21.801000,0 days 00:01:24.803016949,2
+RUS,Williams,18.0,17.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.503000,0 days 00:01:25.142836065,2
+LAT,Williams,19.0,18.0,Spanish Grand Prix,Spain,2020,0 days 00:01:22.030000,0 days 00:01:24.869345454,2
+GRO,Haas F1 Team,17.0,19.0,Spanish Grand Prix,Spain,2020,0 days 00:01:20.409000,0 days 00:01:24.603025,2
+LEC,Ferrari,9.0,20.0,Spanish Grand Prix,Spain,2020,0 days 00:01:23.968000,0 days 00:01:25.436606060,1

@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,1.0,1.0,French Grand Prix,France,2018,0 days 00:01:34.509000,0 days 00:01:36.162866666,2
+VER,Red Bull Racing,4.0,2.0,French Grand Prix,France,2018,0 days 00:01:34.275000,0 days 00:01:36.265000,2
+RAI,Ferrari,6.0,3.0,French Grand Prix,France,2018,0 days 00:01:34.398000,0 days 00:01:36.654333333,2
+RIC,Red Bull Racing,5.0,4.0,French Grand Prix,France,2018,0 days 00:01:35.382000,0 days 00:01:36.858888888,2
+VET,Ferrari,3.0,5.0,French Grand Prix,France,2018,0 days 00:01:34.485000,0 days 00:01:37.071704545,2
+MAG,Haas F1 Team,9.0,6.0,French Grand Prix,France,2018,0 days 00:01:35.425000,0 days 00:01:37.793600,2
+BOT,Mercedes,2.0,7.0,French Grand Prix,France,2018,0 days 00:01:34.225000,0 days 00:01:37.363738095,2
+SAI,Renault,7.0,8.0,French Grand Prix,France,2018,0 days 00:01:35.638000,0 days 00:01:37.954688888,2
+HUL,Renault,12.0,9.0,French Grand Prix,France,2018,0 days 00:01:35.873000,0 days 00:01:38.048866666,2
+LEC,Sauber,8.0,10.0,French Grand Prix,France,2018,0 days 00:01:35.977000,0 days 00:01:38.126377777,2
+GRO,Haas F1 Team,10.0,11.0,French Grand Prix,France,2018,0 days 00:01:35.695000,0 days 00:01:38.324022727,2
+VAN,McLaren,17.0,12.0,French Grand Prix,France,2018,0 days 00:01:36.675000,0 days 00:01:38.770590909,2
+ERI,Sauber,15.0,13.0,French Grand Prix,France,2018,0 days 00:01:36.494000,0 days 00:01:39.253431818,2
+HAR,Toro Rosso,20.0,14.0,French Grand Prix,France,2018,0 days 00:01:36.839000,0 days 00:01:39.238295454,2
+SIR,Williams,18.0,15.0,French Grand Prix,France,2018,0 days 00:01:38.300000,0 days 00:01:39.865511111,1
+ALO,McLaren,16.0,16.0,French Grand Prix,France,2018,0 days 00:01:35.133000,0 days 00:01:39.164600,2
+STR,Williams,19.0,17.0,French Grand Prix,France,2018,0 days 00:01:38.319000,0 days 00:01:39.800790697,1
+PER,Force India,13.0,18.0,French Grand Prix,France,2018,0 days 00:01:38.319000,0 days 00:01:39.453181818,1
+OCO,Force India,11.0,19.0,French Grand Prix,France,2018,,,0
+GAS,Toro Rosso,14.0,20.0,French Grand Prix,France,2018,,,0

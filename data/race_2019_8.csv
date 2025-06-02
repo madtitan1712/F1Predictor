@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+HAM,Mercedes,1.0,1.0,French Grand Prix,France,2019,0 days 00:01:32.764000,0 days 00:01:35.022300,1
+BOT,Mercedes,2.0,2.0,French Grand Prix,France,2019,0 days 00:01:33.586000,0 days 00:01:35.265800,1
+LEC,Ferrari,3.0,3.0,French Grand Prix,France,2019,0 days 00:01:33.828000,0 days 00:01:35.285000,1
+VER,Red Bull Racing,4.0,4.0,French Grand Prix,France,2019,0 days 00:01:34.162000,0 days 00:01:35.557980,1
+VET,Ferrari,7.0,5.0,French Grand Prix,France,2019,0 days 00:01:32.740000,0 days 00:01:35.349891304,2
+SAI,McLaren,6.0,6.0,French Grand Prix,France,2019,0 days 00:01:34.561000,0 days 00:01:36.800460,1
+RAI,Alfa Romeo Racing,12.0,7.0,French Grand Prix,France,2019,0 days 00:01:34.950000,0 days 00:01:36.911020408,1
+HUL,Renault,13.0,8.0,French Grand Prix,France,2019,0 days 00:01:34.754000,0 days 00:01:36.879979591,1
+NOR,McLaren,5.0,9.0,French Grand Prix,France,2019,0 days 00:01:35.197000,0 days 00:01:37.036428571,1
+GAS,Red Bull Racing,9.0,10.0,French Grand Prix,France,2019,0 days 00:01:35.150000,0 days 00:01:36.917145833,1
+RIC,Renault,8.0,11.0,French Grand Prix,France,2019,0 days 00:01:34.873000,0 days 00:01:36.888795918,1
+PER,Racing Point,14.0,12.0,French Grand Prix,France,2019,0 days 00:01:35.014000,0 days 00:01:36.959816326,1
+STR,Racing Point,17.0,13.0,French Grand Prix,France,2019,0 days 00:01:34.924000,0 days 00:01:37.049265306,1
+KVY,Toro Rosso,19.0,14.0,French Grand Prix,France,2019,0 days 00:01:35.225000,0 days 00:01:37.242020408,1
+ALB,Toro Rosso,11.0,15.0,French Grand Prix,France,2019,0 days 00:01:35.029000,0 days 00:01:37.247645833,1
+GIO,Alfa Romeo Racing,10.0,16.0,French Grand Prix,France,2019,0 days 00:01:35.115000,0 days 00:01:37.243829787,2
+MAG,Haas F1 Team,15.0,17.0,French Grand Prix,France,2019,0 days 00:01:35.692000,0 days 00:01:37.837448979,1
+KUB,Williams,18.0,18.0,French Grand Prix,France,2019,0 days 00:01:36.608000,0 days 00:01:39.253062500,1
+RUS,Williams,20.0,19.0,French Grand Prix,France,2019,0 days 00:01:35.830000,0 days 00:01:38.604355555,2
+GRO,Haas F1 Team,16.0,20.0,French Grand Prix,France,2019,0 days 00:01:35.691000,0 days 00:01:37.880666666,1

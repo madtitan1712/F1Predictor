@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VER,Red Bull Racing,2.0,1.0,French Grand Prix,France,2022,0 days 00:01:37.491000,0 days 00:01:38.280804347,1
+HAM,Mercedes,4.0,2.0,French Grand Prix,France,2022,0 days 00:01:37.668000,0 days 00:01:38.679312500,1
+RUS,Mercedes,6.0,3.0,French Grand Prix,France,2022,0 days 00:01:37.548000,0 days 00:01:38.857854166,1
+PER,Red Bull Racing,3.0,4.0,French Grand Prix,France,2022,0 days 00:01:37.780000,0 days 00:01:38.802937500,1
+SAI,Ferrari,19.0,5.0,French Grand Prix,France,2022,0 days 00:01:35.781000,0 days 00:01:38.653755555,2
+ALO,Alpine,7.0,6.0,French Grand Prix,France,2022,0 days 00:01:38.160000,0 days 00:01:39.517936170,1
+NOR,McLaren,5.0,7.0,French Grand Prix,France,2022,0 days 00:01:38.985000,0 days 00:01:39.795127659,1
+OCO,Alpine,10.0,8.0,French Grand Prix,France,2022,0 days 00:01:38.684000,0 days 00:01:39.897851063,1
+RIC,McLaren,9.0,9.0,French Grand Prix,France,2022,0 days 00:01:39.133000,0 days 00:01:40.084659574,1
+STR,Aston Martin,15.0,10.0,French Grand Prix,France,2022,0 days 00:01:39.185000,0 days 00:01:40.085787234,1
+VET,Aston Martin,12.0,11.0,French Grand Prix,France,2022,0 days 00:01:39.044000,0 days 00:01:40.117829787,1
+GAS,AlphaTauri,14.0,12.0,French Grand Prix,France,2022,0 days 00:01:38.786000,0 days 00:01:40.275127659,1
+ALB,Williams,13.0,13.0,French Grand Prix,France,2022,0 days 00:01:39.199000,0 days 00:01:40.298191489,1
+BOT,Alfa Romeo,11.0,14.0,French Grand Prix,France,2022,0 days 00:01:37.963000,0 days 00:01:40.068266666,2
+MSC,Haas F1 Team,17.0,15.0,French Grand Prix,France,2022,0 days 00:01:39.068000,0 days 00:01:40.154113636,2
+ZHO,Alfa Romeo,16.0,16.0,French Grand Prix,France,2022,0 days 00:01:39.368000,0 days 00:01:40.665179487,2
+LAT,Williams,18.0,17.0,French Grand Prix,France,2022,0 days 00:01:39.650000,0 days 00:01:40.679411764,2
+MAG,Haas F1 Team,20.0,18.0,French Grand Prix,France,2022,0 days 00:01:39.265000,0 days 00:01:40.218064516,2
+LEC,Ferrari,1.0,19.0,French Grand Prix,France,2022,0 days 00:01:38.088000,0 days 00:01:39.114235294,0
+TSU,AlphaTauri,8.0,20.0,French Grand Prix,France,2022,0 days 00:01:40.216000,0 days 00:01:41.248500,1

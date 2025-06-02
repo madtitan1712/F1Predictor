@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+RIC,Red Bull Racing,1.0,1.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:15.562000,0 days 00:01:18.429917808,2
+VET,Ferrari,2.0,2.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:16.065000,0 days 00:01:18.485594594,2
+HAM,Mercedes,3.0,3.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:16.270000,0 days 00:01:18.593726027,2
+RAI,Ferrari,4.0,4.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:16.392000,0 days 00:01:18.640864864,2
+BOT,Mercedes,5.0,5.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:16.312000,0 days 00:01:18.632175675,2
+OCO,Force India,6.0,6.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:17.027000,0 days 00:01:18.634567567,2
+GAS,Toro Rosso,10.0,7.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:17.099000,0 days 00:01:18.636270270,2
+HUL,Renault,11.0,8.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:16.061000,0 days 00:01:18.626229729,2
+VER,Red Bull Racing,20.0,9.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:14.260000,0 days 00:01:18.057385964,2
+SAI,Renault,8.0,10.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:17.491000,0 days 00:01:19.236783783,2
+ERI,Sauber,16.0,11.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:16.936000,0 days 00:01:19.170675675,2
+PER,Force India,9.0,12.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:17.546000,0 days 00:01:19.200081081,2
+MAG,Haas F1 Team,19.0,13.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:17.476000,0 days 00:01:19.220229729,2
+VAN,McLaren,12.0,14.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:16.864000,0 days 00:01:19.126767123,3
+GRO,Haas F1 Team,18.0,15.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:14.822000,0 days 00:01:18.770903846,3
+SIR,Williams,13.0,16.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:15.325000,0 days 00:01:18.972483333,4
+STR,Williams,17.0,17.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:14.944000,0 days 00:01:18.393109090,4
+LEC,Sauber,14.0,18.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:17.710000,0 days 00:01:19.189985294,2
+HAR,Toro Rosso,15.0,19.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:17.172000,0 days 00:01:19.171544117,2
+ALO,McLaren,7.0,20.0,Monaco Grand Prix,Monaco,2018,0 days 00:01:17.018000,0 days 00:01:19.174980,2

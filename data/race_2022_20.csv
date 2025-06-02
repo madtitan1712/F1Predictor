@@ -1,0 +1,21 @@
+Driver,Team,Grid,Finishpos,Circuit,Country,Season,FastestLap,AverageTime,pitstops
+VER,Red Bull Racing,1.0,1.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:22.046000,0 days 00:01:22.844985294,1
+HAM,Mercedes,3.0,2.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:22.062000,0 days 00:01:23.024970588,1
+PER,Red Bull Racing,4.0,3.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:21.775000,0 days 00:01:23.043058823,1
+RUS,Mercedes,2.0,4.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:20.153000,0 days 00:01:22.973062500,2
+SAI,Ferrari,5.0,5.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:22.199000,0 days 00:01:23.553000,1
+LEC,Ferrari,7.0,6.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:22.603000,0 days 00:01:23.715470588,1
+RIC,McLaren,11.0,7.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:22.022000,0 days 00:01:24.278641791,1
+OCO,Alpine,10.0,8.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:23.279000,0 days 00:01:24.448134328,1
+NOR,McLaren,8.0,9.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:23.402000,0 days 00:01:24.486910447,1
+BOT,Alfa Romeo,6.0,10.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:23.363000,0 days 00:01:24.515343283,1
+GAS,AlphaTauri,14.0,11.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:22.277000,0 days 00:01:24.349090909,1
+ALB,Williams,17.0,12.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:22.914000,0 days 00:01:24.436939393,1
+ZHO,Alfa Romeo,12.0,13.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:22.260000,0 days 00:01:24.627575757,1
+VET,Aston Martin,16.0,14.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:23.086000,0 days 00:01:24.747402985,1
+STR,Aston Martin,20.0,15.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:22.463000,0 days 00:01:24.357387096,2
+MSC,Haas F1 Team,15.0,16.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:23.641000,0 days 00:01:24.996417910,1
+MAG,Haas F1 Team,19.0,17.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:23.300000,0 days 00:01:24.991731343,1
+LAT,Williams,18.0,18.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:23.709000,0 days 00:01:25.543656250,2
+ALO,Alpine,9.0,19.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:22.866000,0 days 00:01:24.425433333,1
+TSU,AlphaTauri,13.0,20.0,Mexico City Grand Prix,Mexico,2022,0 days 00:01:23.403000,0 days 00:01:24.627255319,1
