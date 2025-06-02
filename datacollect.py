@@ -8,28 +8,20 @@ def Datacollect(year, race, sessiontype):
     laps = session.laps
     results = session.results
     data = session.session_info
-    
-    # Basic driver and race data
     mydata["Driver"] = results.get("Abbreviation")
     mydata["Team"] = results.get("TeamName")
     mydata["Grid"] = results["GridPosition"]
     mydata["Finishpos"] = results["Position"]
-    
-    # Add circuit information
     try:
-        # Different versions of FastF1 might store this differently
+        #Error handling for Circuit data
         if "CircuitName" in session.event:
             mydata["Circuit"] = session.event["CircuitName"]
         elif "Circuit" in session.event:
             mydata["Circuit"] = session.event["Circuit"]
         else:
-            # Fallback: Use event name as circuit
             mydata["Circuit"] = session.event.get("EventName", f"Circuit_{year}_{race}")
     except Exception as e:
-        # Add a placeholder value
         mydata["Circuit"] = f"Circuit_{year}_{race}"
-    
-    # Add country information if available
     try:
         if "Country" in session.event:
             mydata["Country"] = session.event["Country"]
@@ -37,27 +29,22 @@ def Datacollect(year, race, sessiontype):
             mydata["Country"] = "Unknown"
     except:
         mydata["Country"] = "Unknown"
-    
-    # Add season year
     mydata["Season"] = year
-    
-    # Fastest lap calculation
+    # Fastest lap 
     fastlaps = []
     for driver_code in results["Abbreviation"]:
         fastestlap = laps[laps["Driver"] == driver_code].pick_quicklaps()
         x = fastestlap["LapTime"].min()
         fastlaps.append(x)
     mydata["FastestLap"] = fastlaps 
-    
-    # Average lap time calculation
+    # Average lap
     avgtime = []
     for driver_code in results["Abbreviation"]:
         fastestlap = laps[laps["Driver"] == driver_code].pick_quicklaps()
         x = fastestlap["LapTime"].mean()
         avgtime.append(x)
     mydata["AverageTime"] = avgtime
-    
-    # Pitstop calculation
+    # Pitstop 
     stints = laps[['Driver', 'Stint']].drop_duplicates()
     stint_counts = stints.groupby('Driver').size()
     pit_counts = stint_counts - 1

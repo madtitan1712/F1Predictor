@@ -14,31 +14,22 @@ def getcleanedData():
     print("Loading F1 dataset...")
     try:
         # Load the dataset with error handling for different encodings
-        try:
-            x = pd.read_csv("F1Dataset.csv")
-        except UnicodeDecodeError:
-            # Try different encoding if default fails
-            x = pd.read_csv("F1Dataset.csv", encoding='latin1')
-        
+        x = pd.read_csv("F1Dataset.csv")
         print(f"Loaded dataset with {len(x)} rows and {len(x.columns)} columns")
         print(f"Columns: {x.columns.tolist()}")
-        
-        # Basic data validation
+        # Checking for required columns 
         required_columns = ["Driver", "Team", "Grid", "Finishpos", "FastestLap", "AverageTime", "Circuit"]
         missing_columns = [col for col in required_columns if col not in x.columns]
-        
         if missing_columns:
             print(f"Error: Missing required columns: {missing_columns}")
             return None
-        
-        # Mark DNF status based on missing lap times
+        # Checking for DNF status..
         print("Processing DNF status...")
         x["DNF"] = ((x["FastestLap"].isna()) | (x["AverageTime"].isna())).astype(int)
-        
-        # Convert lap times to seconds with robust error handling
+        # Convert lap times to seconds with 2 ways of Error handling...
+        # One way is using the to_timedelta function... If that fails
+        # Converting manually is another go 
         print("Converting lap times to seconds...")
-        
-        # Handle FastestLap conversion with error checking
         try:
             # Try direct conversion to timedelta
             x["FastestLap"] = pd.to_timedelta(x["FastestLap"]).dt.total_seconds()
@@ -46,7 +37,7 @@ def getcleanedData():
             print(f"Warning: Error converting FastestLap: {str(e)}")
             print("Using alternative conversion method...")
             
-            # Alternative approach - convert manually
+            # Manual Conversion Function
             def safe_convert_to_seconds(time_str):
                 if pd.isna(time_str):
                     return np.nan
@@ -56,22 +47,21 @@ def getcleanedData():
                     return pd.to_timedelta(time_str).total_seconds()
                 except:
                     try:
-                        # Try parsing as MM:SS.sss
                         parts = time_str.split(':')
                         if len(parts) == 2:
                             minutes = float(parts[0])
                             seconds = float(parts[1])
                             return minutes * 60 + seconds
                         else:
-                            return float(time_str)  # Assume it's already in seconds
+                            return float(time_str)  
                     except:
                         print(f"Warning: Could not parse time: {time_str}")
                         return np.nan
             
-            # Apply safe conversion
+            # Applying safe conversion
             x["FastestLap"] = x["FastestLap"].apply(safe_convert_to_seconds)
         
-        # Similar approach for AverageTime
+        # Doing so similarly using the predefined functions
         try:
             x["AverageTime"] = pd.to_timedelta(x["AverageTime"]).dt.total_seconds()
         except Exception as e:
@@ -79,7 +69,7 @@ def getcleanedData():
             print("Using alternative conversion method...")
             x["AverageTime"] = x["AverageTime"].apply(safe_convert_to_seconds)
         
-        # Fill missing values with sensible defaults
+        # Handling missing data by filling penalty times.
         maxtime = x["FastestLap"].max(skipna=True)
         max_avg = x["AverageTime"].max(skipna=True)
         
