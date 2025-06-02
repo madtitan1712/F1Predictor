@@ -66,7 +66,7 @@ driver_stats = driver_stats.sort_values('RaceCount', ascending=False)
 print(f"\nData collected from {len(driver_stats)} different drivers:")
 print(driver_stats.head(10))  # Show top 10 drivers by race count
 # Save the complete dataset
-FinalDf.to_csv("F1Dataset.csv", index=False)
+FinalDf.to_csv("data/F1Dataset.csv", index=False)
 print("\nComplete dataset saved as 'F1Dataset.csv'")
 # Save the track statistics
 track_stats.to_csv("data/TrackStats.csv", index=False)
