@@ -1,6 +1,6 @@
 # F1Predictor
 
-F1Predictor is a Python-based machine learning application designed to predict the winner of Formula 1 races based on various race details and driver statistics.
+F1Predictor is a Python-based machine learning application designed to predict the winner of Formula 1 races based on various race details and driver statistics. A small spinoff project that i cooked up just because I was bored and wanted to create something. 
 
 ## Features
 
