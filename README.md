@@ -85,6 +85,13 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the functionality.
 
+## Acknowledgements
+  -FastF1 for providing the F1 data access
+  -Formula 1 for the incredible sport that inspires this project
+
 ## Contact
 
-For any questions or feedback, contact [madtitan1712](https://github.com/madtitan1712).
+Got questions or suggestions? Feel free to reach out:
+GitHub: @madtitan1712
+
+Note: This project is for educational purposes and is not affiliated with Formula 1.
