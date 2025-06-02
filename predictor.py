@@ -8,12 +8,12 @@ import seaborn as sns
 
 def load_model_and_mappings():
     """Load the trained model and encoding mappings"""
-    if not os.path.exists("f1_prediction_model.pkl"):
-        print("Error: Model file not found. Please run main_enhanced.py first.")
+    if not os.path.exists("Model/f1_prediction_model.pkl"):
+        print("Error: Model file not found. Please run main.py first.")
         return None, None
         
     if not os.path.exists("encoding_mappings.json"):
-        print("Error: Encoding mappings not found. Please run DataClean_enhanced.py first.")
+        print("Error: Encoding mappings not found. Please run DataClean.py first.")
         return None, None
     
     # Load model
